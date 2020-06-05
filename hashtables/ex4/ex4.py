@@ -1,6 +1,6 @@
 def has_negatives(a):
     """
-    YOUR CODE HERE
+    has_negatives
     """
     cache = {}
     result = []

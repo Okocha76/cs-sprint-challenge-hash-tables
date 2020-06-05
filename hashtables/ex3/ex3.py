@@ -1,6 +1,6 @@
 def intersection(arrays):
     """
-    YOUR CODE HERE
+    intersection
     """
     cache = {}
     length = len(arrays)

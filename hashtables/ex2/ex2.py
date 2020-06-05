@@ -7,7 +7,7 @@ class Ticket:
 
 def reconstruct_trip(tickets, length):
     """
-    YOUR CODE HERE
+    reconstruct_trip
     """
     cache = {}
     route = [None] * length
